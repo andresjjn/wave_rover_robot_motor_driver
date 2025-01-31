@@ -23,7 +23,7 @@ This repository contains the **`waver_motor_driver`** package, a ROS 2 node desi
 ## **Usage**
 1. Clone this repository into your ROS 2 workspace:
    ```bash
-   git clone https://github.com/your-username/waver_motor_driver.git
+   git clone https://github.com/andresjjn/wave_rover_robot_motor_driver
    cd waver_motor_driver
    ```
 2. Build the package:
